@@ -1,0 +1,12 @@
+{
+  "name": "ko-requirejs-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+     "grunt": "^0.4.5",
+     "grunt-contrib-connect": "latest"
+   }
+}
